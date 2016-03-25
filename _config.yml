@@ -1,21 +1,31 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: Braden Shaak
-email: bradenshaak@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bradenshaak.com" # the base hostname & protocol for your site
-twitter_username: beedsafehavefun
+name: Braden Shaak
+description: "Software Developer"
+url: ""
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
 github_username:  bShaak
+twitter_username: beedSafeHaveFun
+#linked_in_username: your_linked_in_username_goes_here
+#instagram_username:  snor_lax
+stack_of_username: 3550406
+#blog_url: "/blog"
+email: your-email@example.domain
+
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+
+
+front_img: yes
+front_img_path: "imgs/jetty.jpg"
+#front_img_path: "https://external.url/image.jpg"
 
 # Build settings
 markdown: kramdown
+permalink: pretty
