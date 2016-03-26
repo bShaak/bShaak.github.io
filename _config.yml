@@ -8,18 +8,19 @@ url: ""
 # about 5 elements are recomended
 github_username:  bShaak
 twitter_username: beedSafeHaveFun
-#linked_in_username: your_linked_in_username_goes_here
+linked_in_username: bradenshaak
 #instagram_username:  snor_lax
 stack_of_username: 3550406
 #blog_url: "/blog"
-email: your-email@example.domain
+email: bradenshaak@gmail.com
 
 
 avatar: yes
 #avatar_img_path: "imgs/avatar.jpg""
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+#avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+avatar_img_path: "imgs/braden.png"
 
 
 front_img: yes
